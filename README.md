@@ -1,7 +1,7 @@
 # 👋 Olá, sou o Samuel Oliveira
 
-🎓 Doutorando em Engenharia | 💻 Cientista de Dados | 🤖 Especialista em Visão Computacional  
-🔬 Foco em Deep Learning, Processamento de Imagens e Automação de Sistemas  
+🎓 Doutor em Engenharia de Teleinformática | 💻 Cientista de Dados | 🤖 Especialista em Visão Computacional  
+🔬 Foco em Machine Learning, Deep Learning, Processamento de Imagens e Automação de sistemas.  
 📍 Fortaleza, CE – Brasil
 
 ---
@@ -46,8 +46,8 @@
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-saturno/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.oliveira@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-saturno-33b42872)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.oliveira@alu.ufc.br)
 
 ---
 
