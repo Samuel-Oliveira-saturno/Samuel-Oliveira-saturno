@@ -33,13 +33,13 @@
 
 ## 📌 Projetos em Destaque
 
-- [🔍 Sistema de Detecção de Anomalias com CNN](https://github.com/Samuel-Oliveira-saturno/projeto-anomalias-cnn)  
+- [🔍 Sistema de Detecção de detecção de Anemia por imagem](https://github.com/Samuel-Oliveira-saturno/Projeto-Semantix)  
   *Aplicação de redes neurais convolucionais para identificação de falhas em equipamentos industriais.*
 
-- [📊 Dashboard de Monitoramento em Tempo Real](https://github.com/Samuel-Oliveira-saturno/dashboard-monitoramento)  
+- [📊 Anàlise de crédito por Gradient Boosting Machine](https://github.com/Samuel-Oliveira-saturno/EBAC_Cientista_de_Dados/blob/main/M%C3%B3dulo%2024%20%3A%20Combina%C3%A7%C3%A3o%20de%20modelos%20II/Mod24%20-%20GBM.ipynb)  
   *Visualização interativa de dados de sensores utilizando Python e Dash.*
 
-- [🧠 Classificador de Imagens com Transfer Learning](https://github.com/Samuel-Oliveira-saturno/classificador-imagens)  
+- [🧠 Segmentação RFV (Recency, Frequency, Monetary) para análise de dados em marketing para clientes.](https://github.com/Samuel-Oliveira-saturno/RFV)  
   *Modelo de classificação de imagens implementado com PyTorch e técnicas de transferência de aprendizado.*
 
 ---
