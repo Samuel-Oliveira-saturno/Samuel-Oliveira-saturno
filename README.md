@@ -34,13 +34,13 @@
 ## 📌 Projetos em Destaque
 
 - [🔍 Sistema de Detecção Anemia por imagem](https://github.com/Samuel-Oliveira-saturno/Projeto-Semantix)  
-  *Aplicação de redes neurais convolucionais para identificação de falhas em equipamentos industriais.*
+  *Aplicação tecnicas de machine learning para determinar diagnósticos de anemia através de imagens dos olhos de pacientes.*
 
 - [📊 Anàlise de crédito aplicando Gradient Boosting Machine](https://github.com/Samuel-Oliveira-saturno/EBAC_Cientista_de_Dados/blob/main/M%C3%B3dulo%2024%20%3A%20Combina%C3%A7%C3%A3o%20de%20modelos%20II/Mod24%20-%20GBM.ipynb)  
-  *Visualização interativa de dados de sensores utilizando Python e Dash.*
+  *Utilizando ferramentas avançadas ML para analisar liberação de crédito para clientes diversos.*
 
 - [🧠 Segmentação RFV (Recency, Frequency, Monetary) para análise de dados em marketing para clientes.](https://github.com/Samuel-Oliveira-saturno/RFV)  
-  *Modelo de classificação de imagens implementado com PyTorch e técnicas de transferência de aprendizado.*
+  *Aplicação de segmentação RFV para determinar ações de markting para aquisição de clientes.*
 
 ---
 
