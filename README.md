@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samuel Oliveira
+# 👋 Hi, I'm Samuel Saturno
 
 🎓 PhD in Teleinformatics Engineering | 💻 Data Scientist | 🤖 Computer Vision Specialist  
 🔬 Focused on Machine Learning, Deep Learning, Image Processing, and System Automation  
