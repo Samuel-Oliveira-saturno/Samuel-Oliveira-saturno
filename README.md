@@ -27,15 +27,20 @@
 
 ## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samuel-Oliveira-saturno&theme=tokyonight)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Samuel-Oliveira-saturno&theme=tokyonight&locale=pt-br)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔍 Medical Image Analysis – Anemia Detection  
-🔗 https://github.com/Samuel-Oliveira-saturno/Projeto-Semantix  
-*Applied machine learning techniques to detect anemia using eye images, focusing on computer vision for healthcare diagnostics.*
+### ⚡ Energy Fraud Detection – AI Decision Support System  
+🔗 https://github.com/Samuel-Oliveira-saturno/energy-fraud-detector  
+*Developed an end-to-end machine learning system to detect energy fraud (non-technical losses), including a Streamlit application for decision support, risk scoring, and inspection prioritization.*
+
+---
+### 📊 Credit Risk Prediction – Machine Learning Application  
+🔗 https://github.com/Samuel-Oliveira-saturno/Cred_Score_mod38  
+*Built a machine learning pipeline using PyCaret and LightGBM for credit default prediction, with an interactive Streamlit interface for real-world applications.*
 
 ---
 
@@ -50,16 +55,9 @@
 *Implemented RFM (Recency, Frequency, Monetary) segmentation to support marketing strategies and customer retention.*
 
 ---
-
-### ⚡ Energy Fraud Detection – AI Decision Support System  
-🔗 https://github.com/Samuel-Oliveira-saturno/energy-fraud-detector  
-*Developed an end-to-end machine learning system to detect energy fraud (non-technical losses), including a Streamlit application for decision support, risk scoring, and inspection prioritization.*
-
----
-
-### 📊 Credit Risk Prediction – Machine Learning Application  
-🔗 https://github.com/Samuel-Oliveira-saturno/Cred_Score_mod38  
-*Built a machine learning pipeline using PyCaret and LightGBM for credit default prediction, with an interactive Streamlit interface for real-world applications.*
+### 🔍 Medical Image Analysis – Anemia Detection  
+🔗 https://github.com/Samuel-Oliveira-saturno/Projeto-Semantix  
+*Applied machine learning techniques to detect anemia using eye images, focusing on computer vision for healthcare diagnostics.*
 
 ---
 
